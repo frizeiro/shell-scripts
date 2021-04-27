@@ -1,5 +1,5 @@
-# Script Helpers
-Some scripts that can help.
+# Mobile Utils
+Some util tools to help mobile development.
 
 ## Clear Xcode Data
 Script to clear the Xcode Data and free up disk space.
@@ -18,7 +18,7 @@ Script to clear the Xcode Data and free up disk space.
 ### How to use
 
 ```shell
-git clone git@github.com:frizeiro/script-helpers.git
-cd shell-scripts
+git clone git@github.com:frizeiro/mobile-utils.git
+cd mobile-utils
 ./clear-xcode.sh
 ```
